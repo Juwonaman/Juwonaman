@@ -18,8 +18,6 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👨‍💻 Repositories 👨‍💻
-![](https://github-contributor-stats.vercel.app/api?username=Juwonaman&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
