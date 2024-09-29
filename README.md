@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Juwonaman&icon=2&color=1)](https://visitcount.itsvg.in)
 ## Welcome to my Github👋
 # 💫 About Me:
-[![](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
+
  Hi, my name is Olajuwon (Juwon) Atunnise, Computer Science Major in Atlanta, Georgia<br><br>🔬 I currently study Computer Science at Kennesaw State University's College of Computing and Software Engineering<br>🎓 After I graduate I plan to get my MS in CS focusing in Machine learning or Interactive Intelligence<br>💻 I deeply love programming and aspire to learn more about it<br>📚 I am most recently interested in finding ways to leverage artificial intelligence<br>
 
 
