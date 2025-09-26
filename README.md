@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **juwonwashere@gmail.com**
 
-- 📄 Know about my experiences [[Personal profile in the works]]([Personal profile in the works])
+- 📄 Know about my experiences I currently work at Union Pacifc as a Year round Intern, [[Personal profile in the works]]([Personal profile in the works])
 
 - ⚡ Fun fact **I love elephants—they’re my favorite animal.**
 
