@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olajuwon Atunnise</h1>
-<h3 align="center">A passionate software developer based in Atlanta, I recently earned my Bachelor of Science in Computer Science from Kennesaw State University, and I am not Pursuing my Masters in Computer Science at Georgia Tech.</h3>
+<h3 align="center">A passionate software developer based in Atlanta, I recently earned my Bachelor of Science in Computer Science from Kennesaw State University, and I am currently pursuing my Masters in Computer Science at Georgia Tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juwonaman&label=Profile%20views&color=0e75b6&style=flat" alt="juwonaman" /> </p>
 
