@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Olajuwon Atunnise</h1>
-<h3 align="center">A passionate software developer based in Atlanta, I recently earned my Bachelor of Science in Computer Science from Kennesaw State University.</h3>
+<h3 align="center">A passionate software developer based in Atlanta, I recently earned my Bachelor of Science in Computer Science from Kennesaw State University, and I am not Pursuing my Masters in Computer Science at Georgia Tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juwonaman&label=Profile%20views&color=0e75b6&style=flat" alt="juwonaman" /> </p>
 
 - 🌱 I’m currently learning **React, Node JS,TypeScript**
 
-- 📝 I have written a paper on [The Role of Artificial Intelligence in Mental Health](The Role of Artificial Intelligence in Mental Health)
+- 📝 I have written a paper on The Role of Artificial Intelligence in Mental Health: https://digitalcommons.kennesaw.edu/undergradsymposiumksu/spring2025/spring2025/32/
 
 - 📫 How to reach me **juwonwashere@gmail.com**
 
-- 📄 Know about my experiences: I currently work at Union Pacifc as a Year round Intern, [[Personal profile in the works]]([Personal profile in the works])
+- 📄 Know about my experiences: I currently work at Union Pacifc as a Year round Intern, [[Personal Portfolio Under Construction]]
 
 - ⚡ Fun fact **I love elephants—they’re my favorite animal.**
 
