@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **juwonwashere@gmail.com**
 
-
-- 📄 Know about my experiences: I currently work at Union Pacifc as a Year round Intern, [[Personal Portfolio Under Construction]]
+- 📄 My Experience: Undergraduate Research Assistant and Tutor during my studies. Currently a year-round Intern at Union Pacific. [Personal Portfolio Under Construction]
+  
 - ⚡ Fun fact **I love elephants—they’re my favorite animal.**
 
 <h3 align="left">Connect with me:</h3>
